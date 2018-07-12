@@ -40,3 +40,10 @@ Be aware that is is a random sample so it might happen that it does not reflect 
 #### Use the notebook to customize what you need. Different sampling? just downloading the label files? checkout the notebook
 
 
+
+#### Download the whole dataset
+
+To download the whole dataset(all images) follow https://github.com/cvdfoundation/open-images-dataset#download-images-with-bounding-boxes-annotations
+
+You can use the notebook to download the label files and set up the dataset structure
+
