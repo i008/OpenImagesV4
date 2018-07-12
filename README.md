@@ -5,6 +5,7 @@
 This is a reduced version of the original 500gb dataset. In the small version i sampled 5000 train images and 500 train/val images.
 This should be a handy drop-in replacement to create a dev environment and test stuff out.
 
+Download Small OpenImagesV4 (2GB):
 https://drive.google.com/file/d/14nukC03LSp37Qw8XOAdNOsJNJ_Px2fb2/view?usp=sharing
 
 The naming is unchanged as here: 
